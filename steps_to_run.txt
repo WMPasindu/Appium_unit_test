@@ -1,0 +1,8 @@
+--------------------------- Setup Appium environment ---------------------------
+~~ Install appium doctor - yarn add appium appium-doctor
+~~ Inspect issues with appium doctor - yarn run appium-doctor
+~~ Add web driver - yarn add wd
+~~ Start Appium server – appium &
+~~ Run test suits – yarn tetst
+
+~~ Run react native application in emulator – react-native run-android / ios
